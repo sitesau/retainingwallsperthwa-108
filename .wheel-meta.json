@@ -1,0 +1,22 @@
+{
+  "wheel_id": 919,
+  "structure": "umbrella",
+  "slug": "retainingwallsperthwa-108",
+  "project": "retaining-walls-perth-quotes-explained-5ea4423f7fe0a82adc0c03af",
+  "parent_t1_ref": "retainingwallsperthwa-153",
+  "node_role": "feeder",
+  "money_target": "retainingwallsperthwa.com.au",
+  "primary_kw": "retaining walls perth quotes explained",
+  "intended_url": "https://aumedia.neocities.org/retaining-walls-perth-quotes-explained-5ea4423f7fe0a82adc0c03af/",
+  "tier": "T2",
+  "writeback_nonce": "db09902f84938279",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/retainingwallsperthwa-153/",
+      "anchor": "this overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
